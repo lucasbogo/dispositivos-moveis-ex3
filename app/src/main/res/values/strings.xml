@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Teste Cores</string>
+    <string name="vermelho">Vermelho</string>
+    <string name="amarelo">Amarelo</string>
+    <string name="verde">Verde</string>
+    <string name="negrito">Negrito</string>
+    <string name="italico">Itálico</string>
+    <string name="maiusculas">Maiúsculas</string>
+    <string name="texto">Texto</string>
+    <string name="tamanho">Tamanho da Letra</string>
+    <string name="text">Texto</string>
+</resources>
